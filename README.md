@@ -2,7 +2,7 @@
 
 ## Pre-reqistis
 - Windows OS specific:
-  - Git For Windows
+  - [Git For Windows](https://gitforwindows.org)
 - Microsoft Excel
 - Text Editor(preferably Notepad)
 - Python 3.0+
